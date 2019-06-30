@@ -53,6 +53,9 @@ li {
   display: flex;
   justify-content: center;
 }
+.generate-button:hover {
+  background-color: #a8cee7;
+}
 
 /*------fortune cookie text-------*/
 .fortune {
